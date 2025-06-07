@@ -70,32 +70,8 @@ An interactive web application (`app.py`) was built using **Streamlit** to allow
 - Input validation with dropdowns, checkboxes, and sliders
 - Prediction output with probabilities per class
 
-> ⚠️ Preprocessing (encoding & scaling) is not yet integrated into the app interface
-
----
-
-## Limitations
-
-- Incomplete integration of preprocessing in the web app
-- Imbalanced classes limited prediction accuracy for rare injury types
-- Hyperparameter tuning was computationally constrained
-
----
-
-## Future Work
-
-- Integrate full preprocessing pipeline in the web app
-- Automate hyperparameter tuning with Optuna or GridSearchCV
-- Explore alternate targets (e.g., “Agreement Reached”)
-- Test class balancing techniques (SMOTE, focal loss)
-- Deploy app using Streamlit Cloud or Docker
-
----
-
 ## Authors
 
 - Ricardo Pereira  
 - Benedikt Ruggaber  
 - Francisco Pontes  
-
-**NOVA IMS – Master in Data Science and Advanced Analytics 2024/2025**
