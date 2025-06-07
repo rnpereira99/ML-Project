@@ -5,7 +5,7 @@ This project was developed as part of the Machine Learning course in the Master�
 
 Our objective was to assist the **New York Workers’ Compensation Board (WCB)** in automating the classification of workplace injury claims. Using over 590,000 labeled records from 2020 to 2022, we built a supervised learning pipeline to predict the injury type category associated with each claim. The final solution integrates a web application to support decision-making in real-time.
 
-The final model is a **stacked ensemble** (XGBoost + Random Forest), achieving an **F1-macro score of 0.43291** on Kaggle.
+The final model is a **stacked ensemble** (XGBoost + Random Forest), which ranked among the top solutions in the course’s Kaggle leaderboard.
 
 ---
 
