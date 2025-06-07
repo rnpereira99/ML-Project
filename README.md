@@ -15,8 +15,6 @@ The final model is a **stacked ensemble** (XGBoost + Random Forest), which ranke
 - Models
 - Results
 - Streamlit Web App
-- Limitations
-- Future Work
 
 ---
 
