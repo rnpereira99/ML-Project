@@ -67,9 +67,3 @@ An interactive web application (`app.py`) was built using **Streamlit** to allow
 - Four logical input sections (basic info, timeline, other factors, medical)
 - Input validation with dropdowns, checkboxes, and sliders
 - Prediction output with probabilities per class
-
-## Authors
-
-- Ricardo Pereira  
-- Benedikt Ruggaber  
-- Francisco Pontes  
